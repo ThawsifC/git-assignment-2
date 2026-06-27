@@ -64,7 +64,8 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+WRITE A CONTROVERSIAL OPINION YOU HAVE HERE:
+**Argentina might lose the world cup. Maybe?**
 
 5. Add, commit, and push your changes:
   - git add README.md
