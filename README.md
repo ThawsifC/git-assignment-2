@@ -13,9 +13,6 @@ cd git-assignment-2
 - **origin** = your fork (`your_username/git-assignment-2`)  
 - **upstream** = my repository (`josephor1271/git-assignment-2`)
 
-My fork - 'ThawsifC/git-assignment-2'
-I wasn't sure what to edit, so I just added this.
-
 ---
 
 ## Part 1 (Branching and merging within your fork)
