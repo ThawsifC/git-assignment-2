@@ -8,7 +8,7 @@ git clone <your-fork-url>
 3. Change into the repository directory:
 cd git-assignment-2
 4. Open the `git-assignment-2` folder in VSCode.
-5. Open the `README.md` file (this file). You will edit it in VSCode.
+5. Open the `README.md` file (this file). In the upcoming steps, you will be using this file for edits in VSCode or any other platforms such as GIT Bash.
 6. **Industry vocabulary**  
 - **origin** = your fork (`your_username/git-assignment-2`)  
 - **upstream** = my repository (`josephor1271/git-assignment-2`)
@@ -105,6 +105,7 @@ git checkout main
 git checkout -b typo-fix
 
 3. Find **any typo or wording you think could be improved** in this README and fix it.
+**Fixed a sentence to make it clearer.**
 
 4. Add, commit, and push your changes: \ 
 git add README.md OR git add . \
